@@ -102,14 +102,14 @@ Every run ends by writing `output/run-report.json`:
 
 ```json
 {
-  "started_at": "...",
+  "started_at": "2026-08-29T12:05:38Z",
   "catalogue_pages_fetched": 3,
   "cache_hits": 0,
   "detail_pages_fetched": 60,
   "valid_records": 60,
   "invalid_records": 0,
   "failed_pages": 0,
-  "duration_seconds": 0.0
+  "duration_seconds": 85.63
 }
 ```
 *(Paste your own real `run-report.json` here after a run, replacing the
