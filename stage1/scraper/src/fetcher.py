@@ -16,7 +16,7 @@ from typing import Optional
 
 import requests
 
-USER_AGENT = "FlyRankInternshipA9/1.0 (+https://github.com/ajibua/backend-internship)"
+USER_AGENT = "FlyRankInternshipA9/1.0 (+https://github.com/ajibua/flyrank-scraper-be)"
 TIMEOUT = 8
 
 log = logging.getLogger("scraper.fetch")
